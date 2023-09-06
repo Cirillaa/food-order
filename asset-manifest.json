@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/food-order/static/css/main.54c18c97.css",
+    "main.js": "/food-order/static/js/main.d069723d.js",
+    "static/js/787.6414b22a.chunk.js": "/food-order/static/js/787.6414b22a.chunk.js",
+    "static/media/Photo-plate.png": "/food-order/static/media/Photo-plate.f7a4267df8fd5a72b074.png",
+    "static/media/Vet.png": "/food-order/static/media/Vet.cdc01ebe2f72d5af5381.png",
+    "static/media/Il_pastifigo.png": "/food-order/static/media/Il_pastifigo.f701b46dbf661227f6f9.png",
+    "static/media/burgerPh.png": "/food-order/static/media/burgerPh.f1c61d838ffe078df6ee.png",
+    "static/media/BelievePh.png": "/food-order/static/media/BelievePh.94948de98bc92f599a06.png",
+    "static/media/rucola-png.png": "/food-order/static/media/rucola-png.9e7752db3adaec9d21d3.png",
+    "static/media/slick.svg": "/food-order/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/food-order/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/food-order/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/food-order/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/food-order/index.html",
+    "main.54c18c97.css.map": "/food-order/static/css/main.54c18c97.css.map",
+    "main.d069723d.js.map": "/food-order/static/js/main.d069723d.js.map",
+    "787.6414b22a.chunk.js.map": "/food-order/static/js/787.6414b22a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54c18c97.css",
+    "static/js/main.d069723d.js"
+  ]
+}
