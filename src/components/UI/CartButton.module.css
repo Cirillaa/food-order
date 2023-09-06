@@ -1,0 +1,16 @@
+.button {
+    display: flex;
+    background-color: transparent;
+    border: 0px;
+    justify-content: center;
+    margin:  0 auto 
+}
+.badge {
+    color: #9093A6 ;
+    text-align: center;
+    justify-content: center;
+    margin: auto 0;
+    font-size: 1.5em ;
+    padding: 0 10px;
+}
+

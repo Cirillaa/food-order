@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Martel+Sans:wght@400;600&display=swap');
+ul {
+    list-style: none;
+    padding: 0;
+}
+ul > li {
+    padding: 10px 0;
+    font-size: 2em;
+    border-bottom: 1px solid #ccc;
+    color: #9093A6;
+    font-family: 'MartelSans';
+    font-weight: 600;
+}
+li > a {
+    text-decoration: none;
+    color: #747680;
+}
+.phone {
+    font-size: 2em;
+    color: #3F4255;
+    font-family: 'MartelSans';
+    font-weight: 600;
+    margin: 1em 0;
+}
+
+.time {
+    margin-bottom: 1em;
+    color: #9093A6;
+    font-family: 'MartelSans';
+    font-weight: 600;
+}
+.menu {
+    position: fixed;
+    height: 100%;
+    right: -100%;
+    padding-right: 15%;
+    padding-left: 5%;
+    background: rgba(255, 255, 255, 0.904);
+    z-index: 10;
+    transition: right 1s;
+}
+
+.active{
+    right: 0;
+}
+
+.open {
+    border-radius: 50%;
+    padding: 5px;
+    box-shadow:0 0 10px 5px rgba(34, 60, 80, 0.12); 
+    color: #9093A6;
+}
+.close {
+    border-radius: 50%;
+    padding: 5px;
+    box-shadow: 0 0 10px 5px rgba(34, 60, 80, 0.12);
+    color: #9093A6;
+}

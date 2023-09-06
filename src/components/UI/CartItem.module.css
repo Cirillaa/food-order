@@ -1,0 +1,66 @@
+.item {
+    margin: 1rem 0;
+    background-color: white;
+    padding: 1rem;
+}
+
+.item h3 {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.75rem;
+    color: black;
+    font-family: 'Poppins';
+    font-weight: 300;
+}
+
+.item header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.details {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+    font-family: 'Poppins';
+    font-weight: 300;
+}
+
+.quantity span {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.price {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: black;
+    font-family: 'Poppins';
+}
+
+.itemprice {
+    font-weight: normal;
+    font-size: 1rem;
+    font-style: italic;
+}
+
+.actions {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0.5rem 0;
+}
+
+.actions button {
+    background-color: #FFE145;
+    border: 1px solid #FFE145;
+    margin-left: 0.5rem;
+    padding: 0.15rem 1rem;
+    color: black;
+}
+
+.actions button:hover,
+.actions button:active {
+    background-color: #4b4b4b;
+    color: white;
+}

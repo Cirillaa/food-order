@@ -1,0 +1,20 @@
+
+.products h2 {
+    color: black;
+    margin: 5rem auto 3rem;
+}
+
+.products ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2em;
+}
+
+@media (max-width: 636px) {
+    .products ul  {
+        grid-template-columns: 1fr;
+    }
+}

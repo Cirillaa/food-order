@@ -1,0 +1,33 @@
+.notification {
+    width: 10%;
+    height: 3rem;
+    top: 40%;
+    left:35%;
+    background-color: #FFE145;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10% 2rem ;
+    align-items: center;
+    color: white;
+    position:fixed;
+    z-index: 10;
+    border: 2px solid #FFE145 ;
+    border-radius: 30px;
+    transition: 0.2s ease-in-out;
+}
+
+.notification h2,
+.notification p {
+    font-size: 1.5rem;
+    font-family: 'Poppins';
+    font-weight: bold;
+    margin: 0;
+}
+
+.error {
+    background-color: #690000;
+}
+
+.success {
+    background-color: #FFE145;
+}

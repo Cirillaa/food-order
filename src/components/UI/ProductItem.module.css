@@ -1,0 +1,46 @@
+.name {
+    color: black;
+    font-family: 'Poppins';
+}
+.description {
+    font-family: 'Poppins';
+    font-size: 1.3rem;
+    font-weight: 300;
+}
+
+.item header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.price {
+    border-radius: 30px;
+    padding: 0.5rem 1.5rem;
+    background-color: #3a3a3a;
+    color:#FFE145;
+    font-size: 1.5rem;
+}
+
+.actions {
+    display: flex;
+    align-self: flex-end;
+    justify-content: flex-end;
+}
+.actions button {
+    background-color: transparent;
+    font-size: 1.5rem;
+    border: 3px solid #FFE145;
+    padding: 0.5em 0.5em;
+    font-family: "poppins";
+}
+.actions button:hover {
+    background-color: #FFE145;
+    transition: 0.2s ease;
+}
+
+.foodPhoto {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}

@@ -1,0 +1,17 @@
+.black {
+    color: white;
+}
+.header {
+    padding: 1.5em 0;
+    border-bottom: 1px solid #ccc;
+}
+.container {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+}
+.logo {
+    flex-basis: 80%;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
